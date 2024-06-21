@@ -2,7 +2,6 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-
 // Reference: https://www.youtube.com/watch?v=qQLvcS9FxnY&t=14s
 
 [RequireComponent(typeof(CharacterController))]
