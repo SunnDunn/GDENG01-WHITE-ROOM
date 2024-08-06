@@ -9,7 +9,7 @@ Material:
   m_PrefabAsset: {fileID: 0}
   m_Name: Walls 1
   m_Shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
-  m_Parent: {fileID: 2100000, guid: 01cd102529953204a9a7459437765a0c, type: 2}
+  m_Parent: {fileID: 2100000, guid: a5966930705e6bd41aa718617669df00, type: 2}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords:
   - _DETAIL_MULX2
